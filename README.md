@@ -10,5 +10,5 @@ $$
 M Step:
 
 $$
-\theta_{new} = \max_{\theta} Q(\theta, \theta_{old})
+\theta_{new} = \argmax_{\theta} Q(\theta, \theta_{old})
 $$
